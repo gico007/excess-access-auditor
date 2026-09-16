@@ -1,0 +1,145 @@
+employee_id,name,job_level,department,group_name,rule,detail,severity
+EMP0005,Parker Singh,Associate,Finance,OPS-Vendor-Onboard,LEVEL_MISMATCH,"Associate (level 1) holds 'OPS-Vendor-Onboard', which normally requires level 4 - a 3-level gap",Critical
+EMP0006,Noor Kim,Associate,Sales,FIN-GL-Close-Approve,LEVEL_MISMATCH,"Associate (level 1) holds 'FIN-GL-Close-Approve', which normally requires level 5 - a 4-level gap",Critical
+EMP0006,Noor Kim,Associate,Sales,IT-Prod-Database-Write,LEVEL_MISMATCH,"Associate (level 1) holds 'IT-Prod-Database-Write', which normally requires level 4 - a 3-level gap",Critical
+EMP0006,Noor Kim,Associate,Sales,OPS-Vendor-Onboard,LEVEL_MISMATCH,"Associate (level 1) holds 'OPS-Vendor-Onboard', which normally requires level 4 - a 3-level gap",Critical
+EMP0006,Noor Kim,Associate,Sales,IT-Server-Admin,LEVEL_MISMATCH,"Associate (level 1) holds 'IT-Server-Admin', which normally requires level 4 - a 3-level gap",Critical
+EMP0010,Riley Ivanov,Senior Analyst,Sales,HR-Compensation-Admin,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'HR-Compensation-Admin', which normally requires level 6 - a 3-level gap",Critical
+EMP0019,Morgan Kim,Associate,Finance,HR-Compensation-Admin,LEVEL_MISMATCH,"Associate (level 1) holds 'HR-Compensation-Admin', which normally requires level 6 - a 5-level gap",Critical
+EMP0019,Morgan Kim,Associate,Finance,HR-Termination-Process,LEVEL_MISMATCH,"Associate (level 1) holds 'HR-Termination-Process', which normally requires level 5 - a 4-level gap",Critical
+EMP0024,Cameron Osei,Senior Analyst,IT,HR-Compensation-Admin,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'HR-Compensation-Admin', which normally requires level 6 - a 3-level gap",Critical
+EMP0026,Taylor Silva,Analyst,IT,FIN-Payment-Release,LEVEL_MISMATCH,"Analyst (level 2) holds 'FIN-Payment-Release', which normally requires level 5 - a 3-level gap",Critical
+EMP0026,Taylor Silva,Analyst,IT,FIN-GL-Close-Approve,LEVEL_MISMATCH,"Analyst (level 2) holds 'FIN-GL-Close-Approve', which normally requires level 5 - a 3-level gap",Critical
+EMP0028,Skyler Patel,Senior Analyst,Finance,IT-Domain-Admin,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'IT-Domain-Admin', which normally requires level 6 - a 3-level gap",Critical
+EMP0033,Remy Rossi,Analyst,Finance,FIN-GL-Close-Approve,LEVEL_MISMATCH,"Analyst (level 2) holds 'FIN-GL-Close-Approve', which normally requires level 5 - a 3-level gap",Critical
+EMP0033,Remy Rossi,Analyst,Finance,IT-Server-Admin,LEVEL_MISMATCH,"Analyst (level 2) holds 'IT-Server-Admin', which normally requires level 4 - a 2-level gap",Critical
+EMP0033,Remy Rossi,Analyst,Finance,IT-Prod-Database-Write,LEVEL_MISMATCH,"Analyst (level 2) holds 'IT-Prod-Database-Write', which normally requires level 4 - a 2-level gap",Critical
+EMP0034,Reese Santos,Analyst,Sales,IT-Prod-Database-Write,LEVEL_MISMATCH,"Analyst (level 2) holds 'IT-Prod-Database-Write', which normally requires level 4 - a 2-level gap",Critical
+EMP0036,Blair Patel,Associate,Operations,HR-Termination-Process,LEVEL_MISMATCH,"Associate (level 1) holds 'HR-Termination-Process', which normally requires level 5 - a 4-level gap",Critical
+EMP0043,Casey Tanaka,Associate,Finance,IT-Server-Admin,LEVEL_MISMATCH,"Associate (level 1) holds 'IT-Server-Admin', which normally requires level 4 - a 3-level gap",Critical
+EMP0050,Wren Singh,Analyst,Operations,IT-Server-Admin,LEVEL_MISMATCH,"Analyst (level 2) holds 'IT-Server-Admin', which normally requires level 4 - a 2-level gap",Critical
+EMP0051,Ellis Ivanov,Senior Analyst,HR,FIN-GL-Close-Approve,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'FIN-GL-Close-Approve', which normally requires level 5 - a 2-level gap",Critical
+EMP0052,Rowan Kim,Analyst,HR,IT-Domain-Admin,LEVEL_MISMATCH,"Analyst (level 2) holds 'IT-Domain-Admin', which normally requires level 6 - a 4-level gap",Critical
+EMP0052,Rowan Kim,Analyst,HR,FIN-Payment-Release,LEVEL_MISMATCH,"Analyst (level 2) holds 'FIN-Payment-Release', which normally requires level 5 - a 3-level gap",Critical
+EMP0055,Quinn Bauer,Senior Analyst,HR,SALES-Discount-Override,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'SALES-Discount-Override', which normally requires level 5 - a 2-level gap",Critical
+EMP0056,Shay Abara,Senior Analyst,IT,HR-Termination-Process,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'HR-Termination-Process', which normally requires level 5 - a 2-level gap",Critical
+EMP0059,Alexis Fischer,Senior Analyst,Finance,HR-Compensation-Admin,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'HR-Compensation-Admin', which normally requires level 6 - a 3-level gap",Critical
+EMP0064,Jules Singh,Associate,IT,SALES-Discount-Override,LEVEL_MISMATCH,"Associate (level 1) holds 'SALES-Discount-Override', which normally requires level 5 - a 4-level gap",Critical
+EMP0064,Jules Singh,Associate,IT,IT-Server-Admin,LEVEL_MISMATCH,"Associate (level 1) holds 'IT-Server-Admin', which normally requires level 4 - a 3-level gap",Critical
+EMP0064,Jules Singh,Associate,IT,IT-Domain-Admin,LEVEL_MISMATCH,"Associate (level 1) holds 'IT-Domain-Admin', which normally requires level 6 - a 5-level gap",Critical
+EMP0071,Kai Costa,Analyst,HR,FIN-GL-Close-Approve,LEVEL_MISMATCH,"Analyst (level 2) holds 'FIN-GL-Close-Approve', which normally requires level 5 - a 3-level gap",Critical
+EMP0073,Gray Kim,Senior Analyst,Sales,FIN-Payment-Release,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'FIN-Payment-Release', which normally requires level 5 - a 2-level gap",Critical
+EMP0076,Gray Andersen,Analyst,Finance,FIN-GL-Close-Approve,LEVEL_MISMATCH,"Analyst (level 2) holds 'FIN-GL-Close-Approve', which normally requires level 5 - a 3-level gap",Critical
+EMP0077,Jules Dubois,Associate,Finance,FIN-GL-Close-Approve,LEVEL_MISMATCH,"Associate (level 1) holds 'FIN-GL-Close-Approve', which normally requires level 5 - a 4-level gap",Critical
+EMP0079,Morgan Silva,Associate,Finance,HR-Termination-Process,LEVEL_MISMATCH,"Associate (level 1) holds 'HR-Termination-Process', which normally requires level 5 - a 4-level gap",Critical
+EMP0005,Parker Singh,Associate,Finance,OPS-Vendor-Onboard,CROSS_DEPT_SENSITIVE,"Finance employee holds 'OPS-Vendor-Onboard', a sensitive Operations group",High
+EMP0006,Noor Kim,Associate,Sales,FIN-GL-Close-Approve,CROSS_DEPT_SENSITIVE,"Sales employee holds 'FIN-GL-Close-Approve', a sensitive Finance group",High
+EMP0006,Noor Kim,Associate,Sales,IT-Prod-Database-Write,CROSS_DEPT_SENSITIVE,"Sales employee holds 'IT-Prod-Database-Write', a sensitive IT group",High
+EMP0006,Noor Kim,Associate,Sales,OPS-Vendor-Onboard,CROSS_DEPT_SENSITIVE,"Sales employee holds 'OPS-Vendor-Onboard', a sensitive Operations group",High
+EMP0006,Noor Kim,Associate,Sales,IT-Server-Admin,CROSS_DEPT_SENSITIVE,"Sales employee holds 'IT-Server-Admin', a sensitive IT group",High
+EMP0010,Riley Ivanov,Senior Analyst,Sales,HR-Compensation-Admin,CROSS_DEPT_SENSITIVE,"Sales employee holds 'HR-Compensation-Admin', a sensitive HR group",High
+EMP0010,Riley Ivanov,Senior Analyst,Sales,IT-Prod-Database-Write,CROSS_DEPT_SENSITIVE,"Sales employee holds 'IT-Prod-Database-Write', a sensitive IT group",High
+EMP0016,Morgan Okafor,Senior Manager,Sales,FIN-Payment-Release,CROSS_DEPT_SENSITIVE,"Sales employee holds 'FIN-Payment-Release', a sensitive Finance group",High
+EMP0019,Morgan Kim,Associate,Finance,HR-Compensation-Admin,CROSS_DEPT_SENSITIVE,"Finance employee holds 'HR-Compensation-Admin', a sensitive HR group",High
+EMP0019,Morgan Kim,Associate,Finance,HR-Termination-Process,CROSS_DEPT_SENSITIVE,"Finance employee holds 'HR-Termination-Process', a sensitive HR group",High
+EMP0024,Cameron Osei,Senior Analyst,IT,HR-Compensation-Admin,CROSS_DEPT_SENSITIVE,"IT employee holds 'HR-Compensation-Admin', a sensitive HR group",High
+EMP0026,Taylor Silva,Analyst,IT,FIN-Payment-Release,CROSS_DEPT_SENSITIVE,"IT employee holds 'FIN-Payment-Release', a sensitive Finance group",High
+EMP0026,Taylor Silva,Analyst,IT,FIN-GL-Close-Approve,CROSS_DEPT_SENSITIVE,"IT employee holds 'FIN-GL-Close-Approve', a sensitive Finance group",High
+EMP0028,Skyler Patel,Senior Analyst,Finance,IT-Domain-Admin,CROSS_DEPT_SENSITIVE,"Finance employee holds 'IT-Domain-Admin', a sensitive IT group",High
+EMP0033,Remy Rossi,Analyst,Finance,IT-Server-Admin,CROSS_DEPT_SENSITIVE,"Finance employee holds 'IT-Server-Admin', a sensitive IT group",High
+EMP0033,Remy Rossi,Analyst,Finance,IT-Prod-Database-Write,CROSS_DEPT_SENSITIVE,"Finance employee holds 'IT-Prod-Database-Write', a sensitive IT group",High
+EMP0034,Reese Santos,Analyst,Sales,IT-Prod-Database-Write,CROSS_DEPT_SENSITIVE,"Sales employee holds 'IT-Prod-Database-Write', a sensitive IT group",High
+EMP0036,Blair Patel,Associate,Operations,HR-Termination-Process,CROSS_DEPT_SENSITIVE,"Operations employee holds 'HR-Termination-Process', a sensitive HR group",High
+EMP0037,Riley Okafor,Lead,HR,FIN-Payment-Release,CROSS_DEPT_SENSITIVE,"HR employee holds 'FIN-Payment-Release', a sensitive Finance group",High
+EMP0043,Casey Tanaka,Associate,Finance,IT-Server-Admin,CROSS_DEPT_SENSITIVE,"Finance employee holds 'IT-Server-Admin', a sensitive IT group",High
+EMP0050,Wren Singh,Analyst,Operations,IT-Server-Admin,CROSS_DEPT_SENSITIVE,"Operations employee holds 'IT-Server-Admin', a sensitive IT group",High
+EMP0051,Ellis Ivanov,Senior Analyst,HR,FIN-GL-Close-Approve,CROSS_DEPT_SENSITIVE,"HR employee holds 'FIN-GL-Close-Approve', a sensitive Finance group",High
+EMP0052,Rowan Kim,Analyst,HR,IT-Domain-Admin,CROSS_DEPT_SENSITIVE,"HR employee holds 'IT-Domain-Admin', a sensitive IT group",High
+EMP0052,Rowan Kim,Analyst,HR,FIN-Payment-Release,CROSS_DEPT_SENSITIVE,"HR employee holds 'FIN-Payment-Release', a sensitive Finance group",High
+EMP0055,Quinn Bauer,Senior Analyst,HR,SALES-Discount-Override,CROSS_DEPT_SENSITIVE,"HR employee holds 'SALES-Discount-Override', a sensitive Sales group",High
+EMP0056,Shay Abara,Senior Analyst,IT,HR-Termination-Process,CROSS_DEPT_SENSITIVE,"IT employee holds 'HR-Termination-Process', a sensitive HR group",High
+EMP0059,Alexis Fischer,Senior Analyst,Finance,HR-Compensation-Admin,CROSS_DEPT_SENSITIVE,"Finance employee holds 'HR-Compensation-Admin', a sensitive HR group",High
+EMP0064,Jules Singh,Associate,IT,SALES-Discount-Override,CROSS_DEPT_SENSITIVE,"IT employee holds 'SALES-Discount-Override', a sensitive Sales group",High
+EMP0067,Parker Patel,Manager,Finance,HR-Termination-Process,CROSS_DEPT_SENSITIVE,"Finance employee holds 'HR-Termination-Process', a sensitive HR group",High
+EMP0070,Jules Okafor,Lead,Operations,FIN-GL-Close-Approve,CROSS_DEPT_SENSITIVE,"Operations employee holds 'FIN-GL-Close-Approve', a sensitive Finance group",High
+EMP0070,Jules Okafor,Lead,Operations,IT-Server-Admin,CROSS_DEPT_SENSITIVE,"Operations employee holds 'IT-Server-Admin', a sensitive IT group",High
+EMP0070,Jules Okafor,Lead,Operations,FIN-Payment-Release,CROSS_DEPT_SENSITIVE,"Operations employee holds 'FIN-Payment-Release', a sensitive Finance group",High
+EMP0071,Kai Costa,Analyst,HR,FIN-GL-Close-Approve,CROSS_DEPT_SENSITIVE,"HR employee holds 'FIN-GL-Close-Approve', a sensitive Finance group",High
+EMP0073,Gray Kim,Senior Analyst,Sales,FIN-Payment-Release,CROSS_DEPT_SENSITIVE,"Sales employee holds 'FIN-Payment-Release', a sensitive Finance group",High
+EMP0079,Morgan Silva,Associate,Finance,HR-Termination-Process,CROSS_DEPT_SENSITIVE,"Finance employee holds 'HR-Termination-Process', a sensitive HR group",High
+EMP0010,Riley Ivanov,Senior Analyst,Sales,IT-Prod-Database-Write,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'IT-Prod-Database-Write', which normally requires level 4 - a 1-level gap",High
+EMP0011,Quinn Osei,Senior Analyst,IT,IT-Server-Admin,LEVEL_MISMATCH,"Senior Analyst (level 3) holds 'IT-Server-Admin', which normally requires level 4 - a 1-level gap",High
+EMP0037,Riley Okafor,Lead,HR,FIN-Payment-Release,LEVEL_MISMATCH,"Lead (level 4) holds 'FIN-Payment-Release', which normally requires level 5 - a 1-level gap",High
+EMP0070,Jules Okafor,Lead,Operations,FIN-GL-Close-Approve,LEVEL_MISMATCH,"Lead (level 4) holds 'FIN-GL-Close-Approve', which normally requires level 5 - a 1-level gap",High
+EMP0070,Jules Okafor,Lead,Operations,FIN-Payment-Release,LEVEL_MISMATCH,"Lead (level 4) holds 'FIN-Payment-Release', which normally requires level 5 - a 1-level gap",High
+EMP0006,Noor Kim,Associate,Sales,"FIN-GL-Close-Approve, IT-Prod-Database-Write, IT-Server-Admin, OPS-Vendor-Onboard",PRIVILEGE_CONCENTRATION,"Associate holds 4 sensitive groups: FIN-GL-Close-Approve, IT-Prod-Database-Write, IT-Server-Admin, OPS-Vendor-Onboard",High
+EMP0033,Remy Rossi,Analyst,Finance,"FIN-GL-Close-Approve, IT-Prod-Database-Write, IT-Server-Admin",PRIVILEGE_CONCENTRATION,"Analyst holds 3 sensitive groups: FIN-GL-Close-Approve, IT-Prod-Database-Write, IT-Server-Admin",High
+EMP0064,Jules Singh,Associate,IT,"IT-Domain-Admin, IT-Server-Admin, SALES-Discount-Override",PRIVILEGE_CONCENTRATION,"Associate holds 3 sensitive groups: IT-Domain-Admin, IT-Server-Admin, SALES-Discount-Override",High
+EMP0070,Jules Okafor,Lead,Operations,"FIN-GL-Close-Approve, FIN-Payment-Release, IT-Server-Admin, OPS-Vendor-Onboard",PRIVILEGE_CONCENTRATION,"Lead holds 4 sensitive groups: FIN-GL-Close-Approve, FIN-Payment-Release, IT-Server-Admin, OPS-Vendor-Onboard",High
+EMP0010,Riley Ivanov,Senior Analyst,Sales,HR-Compensation-Admin,MISSING_APPROVER,Sensitive group 'HR-Compensation-Admin' has no approver on record,Medium
+EMP0016,Morgan Okafor,Senior Manager,Sales,FIN-Payment-Release,MISSING_APPROVER,Sensitive group 'FIN-Payment-Release' has no approver on record,Medium
+EMP0020,Casey Moreau,Manager,IT,IT-Prod-Database-Write,MISSING_APPROVER,Sensitive group 'IT-Prod-Database-Write' has no approver on record,Medium
+EMP0024,Cameron Osei,Senior Analyst,IT,HR-Compensation-Admin,MISSING_APPROVER,Sensitive group 'HR-Compensation-Admin' has no approver on record,Medium
+EMP0026,Taylor Silva,Analyst,IT,FIN-Payment-Release,MISSING_APPROVER,Sensitive group 'FIN-Payment-Release' has no approver on record,Medium
+EMP0026,Taylor Silva,Analyst,IT,FIN-GL-Close-Approve,MISSING_APPROVER,Sensitive group 'FIN-GL-Close-Approve' has no approver on record,Medium
+EMP0036,Blair Patel,Associate,Operations,HR-Termination-Process,MISSING_APPROVER,Sensitive group 'HR-Termination-Process' has no approver on record,Medium
+EMP0043,Casey Tanaka,Associate,Finance,IT-Server-Admin,MISSING_APPROVER,Sensitive group 'IT-Server-Admin' has no approver on record,Medium
+EMP0051,Ellis Ivanov,Senior Analyst,HR,FIN-GL-Close-Approve,MISSING_APPROVER,Sensitive group 'FIN-GL-Close-Approve' has no approver on record,Medium
+EMP0052,Rowan Kim,Analyst,HR,IT-Domain-Admin,MISSING_APPROVER,Sensitive group 'IT-Domain-Admin' has no approver on record,Medium
+EMP0055,Quinn Bauer,Senior Analyst,HR,SALES-Discount-Override,MISSING_APPROVER,Sensitive group 'SALES-Discount-Override' has no approver on record,Medium
+EMP0056,Shay Abara,Senior Analyst,IT,HR-Termination-Process,MISSING_APPROVER,Sensitive group 'HR-Termination-Process' has no approver on record,Medium
+EMP0059,Alexis Fischer,Senior Analyst,Finance,HR-Compensation-Admin,MISSING_APPROVER,Sensitive group 'HR-Compensation-Admin' has no approver on record,Medium
+EMP0073,Gray Kim,Senior Analyst,Sales,FIN-Payment-Release,MISSING_APPROVER,Sensitive group 'FIN-Payment-Release' has no approver on record,Medium
+EMP0076,Gray Andersen,Analyst,Finance,FIN-GL-Close-Approve,MISSING_APPROVER,Sensitive group 'FIN-GL-Close-Approve' has no approver on record,Medium
+EMP0077,Jules Dubois,Associate,Finance,FIN-GL-Close-Approve,MISSING_APPROVER,Sensitive group 'FIN-GL-Close-Approve' has no approver on record,Medium
+EMP0004,Micah Osei,Manager,Sales,SALES-Discount-Override,STALE_MEMBERSHIP,Sensitive access held 547 days without re-review (threshold 365),Medium
+EMP0005,Parker Singh,Associate,Finance,OPS-Vendor-Onboard,STALE_MEMBERSHIP,Sensitive access held 1547 days without re-review (threshold 365),Medium
+EMP0006,Noor Kim,Associate,Sales,FIN-GL-Close-Approve,STALE_MEMBERSHIP,Sensitive access held 677 days without re-review (threshold 365),Medium
+EMP0006,Noor Kim,Associate,Sales,IT-Prod-Database-Write,STALE_MEMBERSHIP,Sensitive access held 1341 days without re-review (threshold 365),Medium
+EMP0006,Noor Kim,Associate,Sales,OPS-Vendor-Onboard,STALE_MEMBERSHIP,Sensitive access held 633 days without re-review (threshold 365),Medium
+EMP0006,Noor Kim,Associate,Sales,IT-Server-Admin,STALE_MEMBERSHIP,Sensitive access held 1074 days without re-review (threshold 365),Medium
+EMP0009,Emerson Patel,Manager,IT,IT-Prod-Database-Write,STALE_MEMBERSHIP,Sensitive access held 882 days without re-review (threshold 365),Medium
+EMP0010,Riley Ivanov,Senior Analyst,Sales,HR-Compensation-Admin,STALE_MEMBERSHIP,Sensitive access held 959 days without re-review (threshold 365),Medium
+EMP0010,Riley Ivanov,Senior Analyst,Sales,IT-Prod-Database-Write,STALE_MEMBERSHIP,Sensitive access held 2294 days without re-review (threshold 365),Medium
+EMP0011,Quinn Osei,Senior Analyst,IT,IT-Server-Admin,STALE_MEMBERSHIP,Sensitive access held 1981 days without re-review (threshold 365),Medium
+EMP0016,Morgan Okafor,Senior Manager,Sales,SALES-Discount-Override,STALE_MEMBERSHIP,Sensitive access held 1311 days without re-review (threshold 365),Medium
+EMP0016,Morgan Okafor,Senior Manager,Sales,FIN-Payment-Release,STALE_MEMBERSHIP,Sensitive access held 505 days without re-review (threshold 365),Medium
+EMP0018,Hayden Garcia,Lead,Operations,OPS-Vendor-Onboard,STALE_MEMBERSHIP,Sensitive access held 557 days without re-review (threshold 365),Medium
+EMP0019,Morgan Kim,Associate,Finance,HR-Termination-Process,STALE_MEMBERSHIP,Sensitive access held 2378 days without re-review (threshold 365),Medium
+EMP0020,Casey Moreau,Manager,IT,IT-Prod-Database-Write,STALE_MEMBERSHIP,Sensitive access held 1307 days without re-review (threshold 365),Medium
+EMP0024,Cameron Osei,Senior Analyst,IT,HR-Compensation-Admin,STALE_MEMBERSHIP,Sensitive access held 1030 days without re-review (threshold 365),Medium
+EMP0026,Taylor Silva,Analyst,IT,FIN-GL-Close-Approve,STALE_MEMBERSHIP,Sensitive access held 1280 days without re-review (threshold 365),Medium
+EMP0027,Logan Rossi,Lead,Operations,OPS-Vendor-Onboard,STALE_MEMBERSHIP,Sensitive access held 1370 days without re-review (threshold 365),Medium
+EMP0028,Skyler Patel,Senior Analyst,Finance,IT-Domain-Admin,STALE_MEMBERSHIP,Sensitive access held 875 days without re-review (threshold 365),Medium
+EMP0030,Frankie Ivanov,Senior Manager,Sales,SALES-Discount-Override,STALE_MEMBERSHIP,Sensitive access held 643 days without re-review (threshold 365),Medium
+EMP0033,Remy Rossi,Analyst,Finance,FIN-GL-Close-Approve,STALE_MEMBERSHIP,Sensitive access held 486 days without re-review (threshold 365),Medium
+EMP0033,Remy Rossi,Analyst,Finance,IT-Server-Admin,STALE_MEMBERSHIP,Sensitive access held 772 days without re-review (threshold 365),Medium
+EMP0033,Remy Rossi,Analyst,Finance,IT-Prod-Database-Write,STALE_MEMBERSHIP,Sensitive access held 920 days without re-review (threshold 365),Medium
+EMP0034,Reese Santos,Analyst,Sales,IT-Prod-Database-Write,STALE_MEMBERSHIP,Sensitive access held 953 days without re-review (threshold 365),Medium
+EMP0036,Blair Patel,Associate,Operations,HR-Termination-Process,STALE_MEMBERSHIP,Sensitive access held 431 days without re-review (threshold 365),Medium
+EMP0037,Riley Okafor,Lead,HR,FIN-Payment-Release,STALE_MEMBERSHIP,Sensitive access held 1839 days without re-review (threshold 365),Medium
+EMP0042,Harper Osei,Senior Manager,HR,HR-Compensation-Admin,STALE_MEMBERSHIP,Sensitive access held 811 days without re-review (threshold 365),Medium
+EMP0043,Casey Tanaka,Associate,Finance,IT-Server-Admin,STALE_MEMBERSHIP,Sensitive access held 1353 days without re-review (threshold 365),Medium
+EMP0049,Jules Abara,Manager,HR,HR-Termination-Process,STALE_MEMBERSHIP,Sensitive access held 462 days without re-review (threshold 365),Medium
+EMP0050,Wren Singh,Analyst,Operations,IT-Server-Admin,STALE_MEMBERSHIP,Sensitive access held 2165 days without re-review (threshold 365),Medium
+EMP0051,Ellis Ivanov,Senior Analyst,HR,FIN-GL-Close-Approve,STALE_MEMBERSHIP,Sensitive access held 663 days without re-review (threshold 365),Medium
+EMP0052,Rowan Kim,Analyst,HR,IT-Domain-Admin,STALE_MEMBERSHIP,Sensitive access held 827 days without re-review (threshold 365),Medium
+EMP0052,Rowan Kim,Analyst,HR,FIN-Payment-Release,STALE_MEMBERSHIP,Sensitive access held 1545 days without re-review (threshold 365),Medium
+EMP0055,Quinn Bauer,Senior Analyst,HR,SALES-Discount-Override,STALE_MEMBERSHIP,Sensitive access held 571 days without re-review (threshold 365),Medium
+EMP0056,Shay Abara,Senior Analyst,IT,HR-Termination-Process,STALE_MEMBERSHIP,Sensitive access held 388 days without re-review (threshold 365),Medium
+EMP0057,Sage Lindgren,Lead,Operations,OPS-Vendor-Onboard,STALE_MEMBERSHIP,Sensitive access held 699 days without re-review (threshold 365),Medium
+EMP0060,Devon Okafor,Manager,IT,IT-Server-Admin,STALE_MEMBERSHIP,Sensitive access held 990 days without re-review (threshold 365),Medium
+EMP0062,Alexis Kim,Senior Manager,IT,IT-Prod-Database-Write,STALE_MEMBERSHIP,Sensitive access held 433 days without re-review (threshold 365),Medium
+EMP0062,Alexis Kim,Senior Manager,IT,IT-Domain-Admin,STALE_MEMBERSHIP,Sensitive access held 963 days without re-review (threshold 365),Medium
+EMP0064,Jules Singh,Associate,IT,IT-Server-Admin,STALE_MEMBERSHIP,Sensitive access held 808 days without re-review (threshold 365),Medium
+EMP0064,Jules Singh,Associate,IT,IT-Domain-Admin,STALE_MEMBERSHIP,Sensitive access held 649 days without re-review (threshold 365),Medium
+EMP0066,Avery Muller,Manager,HR,HR-Termination-Process,STALE_MEMBERSHIP,Sensitive access held 882 days without re-review (threshold 365),Medium
+EMP0067,Parker Patel,Manager,Finance,HR-Termination-Process,STALE_MEMBERSHIP,Sensitive access held 1275 days without re-review (threshold 365),Medium
+EMP0070,Jules Okafor,Lead,Operations,OPS-Vendor-Onboard,STALE_MEMBERSHIP,Sensitive access held 706 days without re-review (threshold 365),Medium
+EMP0070,Jules Okafor,Lead,Operations,IT-Server-Admin,STALE_MEMBERSHIP,Sensitive access held 1036 days without re-review (threshold 365),Medium
+EMP0070,Jules Okafor,Lead,Operations,FIN-Payment-Release,STALE_MEMBERSHIP,Sensitive access held 560 days without re-review (threshold 365),Medium
+EMP0071,Kai Costa,Analyst,HR,FIN-GL-Close-Approve,STALE_MEMBERSHIP,Sensitive access held 1281 days without re-review (threshold 365),Medium
+EMP0072,Shay Tanaka,Manager,Operations,OPS-Vendor-Onboard,STALE_MEMBERSHIP,Sensitive access held 721 days without re-review (threshold 365),Medium
+EMP0073,Gray Kim,Senior Analyst,Sales,FIN-Payment-Release,STALE_MEMBERSHIP,Sensitive access held 966 days without re-review (threshold 365),Medium
+EMP0079,Morgan Silva,Associate,Finance,HR-Termination-Process,STALE_MEMBERSHIP,Sensitive access held 2231 days without re-review (threshold 365),Medium
+EMP0080,Shay Ivanov,Director,IT,IT-Domain-Admin,STALE_MEMBERSHIP,Sensitive access held 930 days without re-review (threshold 365),Medium

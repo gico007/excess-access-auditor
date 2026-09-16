@@ -1,0 +1,29 @@
+EXCESS ACCESS DETECTION SUMMARY
+==============================================
+Employees reviewed:              80
+AD groups in scope:              15  (9 sensitive)
+Group memberships reviewed:      149
+Total findings:                  144
+Employees with a finding:        42
+
+Findings by rule:
+  STALE_MEMBERSHIP             51
+  LEVEL_MISMATCH               38
+  CROSS_DEPT_SENSITIVE         35
+  MISSING_APPROVER             16
+  PRIVILEGE_CONCENTRATION       4
+
+Findings by severity:
+  Critical                     33
+  High                         44
+  Medium                       67
+  Low                           0
+
+Individual contributors holding manager-level or above access: 19 people, 23 memberships
+
+Sample - widest level gaps:
+  Morgan Kim           Associate        -> HR-Compensation-Admin      (gap 5)
+  Jules Singh          Associate        -> IT-Domain-Admin            (gap 5)
+  Noor Kim             Associate        -> FIN-GL-Close-Approve       (gap 4)
+  Rowan Kim            Analyst          -> IT-Domain-Admin            (gap 4)
+  Jules Dubois         Associate        -> FIN-GL-Close-Approve       (gap 4)

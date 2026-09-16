@@ -1,0 +1,16 @@
+group_name,dept,min_level,sensitive
+FIN-Invoice-Entry,Finance,1,false
+FIN-Payment-Release,Finance,5,true
+FIN-GL-Close-Approve,Finance,5,true
+FIN-Reporting-ReadOnly,Finance,1,false
+HR-Employee-Records-Read,HR,2,false
+HR-Compensation-Admin,HR,6,true
+HR-Termination-Process,HR,5,true
+IT-Helpdesk-Standard,IT,1,false
+IT-Server-Admin,IT,4,true
+IT-Domain-Admin,IT,6,true
+IT-Prod-Database-Write,IT,4,true
+OPS-Workflow-Standard,Operations,1,false
+OPS-Vendor-Onboard,Operations,4,true
+SALES-CRM-Standard,Sales,1,false
+SALES-Discount-Override,Sales,5,true

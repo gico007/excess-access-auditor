@@ -1,8 +1,3 @@
-# Personal projects and case studies focused on solving business problems through technology, governance, data, # security, and process improvement. 
-
-# excess-access-auditor
-Finds access that is disproportionate to the person who holds it, by comparing Active Directory group membership against job level, department, approval records, and tenure. Synthetic data, built to show method.
-
 # Excess Access Detector
 
 Finds access that is disproportionate to the person who holds it, by
@@ -153,4 +148,3 @@ python3 run_sql_analysis.py
 ---
 *All data in this project is synthetic and fictional, generated for
 demonstration purposes.*
-

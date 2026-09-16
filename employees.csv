@@ -1,0 +1,81 @@
+employee_id,name,department,job_level,level_rank,hire_date
+EMP0001,Morgan Abara,HR,Lead,4,2021-04-11
+EMP0002,Micah Silva,Finance,Lead,4,2021-05-19
+EMP0003,Devon Osei,Operations,Associate,1,2019-12-31
+EMP0004,Micah Osei,Sales,Manager,5,2021-08-06
+EMP0005,Parker Singh,Finance,Associate,1,2025-01-24
+EMP0006,Noor Kim,Sales,Associate,1,2020-11-25
+EMP0007,Rowan Moreau,Sales,Analyst,2,2023-06-01
+EMP0008,Emerson Andersen,Sales,Associate,1,2025-10-11
+EMP0009,Emerson Patel,IT,Manager,5,2023-05-18
+EMP0010,Riley Ivanov,Sales,Senior Analyst,3,2025-10-11
+EMP0011,Quinn Osei,IT,Senior Analyst,3,2022-10-05
+EMP0012,Gray Silva,HR,Lead,4,2025-01-17
+EMP0013,Avery Moreau,Sales,Analyst,2,2023-06-16
+EMP0014,Micah Bauer,Sales,Analyst,2,2025-09-03
+EMP0015,Reese Abara,IT,Senior Analyst,3,2021-08-06
+EMP0016,Morgan Okafor,Sales,Senior Manager,6,2025-07-11
+EMP0017,Logan Kim,HR,Senior Analyst,3,2020-01-10
+EMP0018,Hayden Garcia,Operations,Lead,4,2021-06-30
+EMP0019,Morgan Kim,Finance,Associate,1,2025-01-18
+EMP0020,Casey Moreau,IT,Manager,5,2025-02-18
+EMP0021,Indigo Okafor,Operations,Analyst,2,2022-08-26
+EMP0022,Noor Nguyen,Finance,Lead,4,2024-02-25
+EMP0023,Parker Rossi,Sales,Lead,4,2021-12-09
+EMP0024,Cameron Osei,IT,Senior Analyst,3,2022-01-01
+EMP0025,Logan Patel,HR,Analyst,2,2024-05-10
+EMP0026,Taylor Silva,IT,Analyst,2,2023-12-22
+EMP0027,Logan Rossi,Operations,Lead,4,2022-02-06
+EMP0028,Skyler Patel,Finance,Senior Analyst,3,2025-05-21
+EMP0029,Casey Chen,Sales,Senior Analyst,3,2020-09-25
+EMP0030,Frankie Ivanov,Sales,Senior Manager,6,2022-08-03
+EMP0031,Cameron Muller,Operations,Associate,1,2024-09-23
+EMP0032,Blair Chen,HR,Associate,1,2025-01-24
+EMP0033,Remy Rossi,Finance,Analyst,2,2026-04-19
+EMP0034,Reese Santos,Sales,Analyst,2,2024-12-17
+EMP0035,Indigo Lindgren,HR,Associate,1,2024-03-23
+EMP0036,Blair Patel,Operations,Associate,1,2023-05-26
+EMP0037,Riley Okafor,HR,Lead,4,2022-11-16
+EMP0038,Skyler Chen,Operations,Lead,4,2024-10-11
+EMP0039,Ellis Lindgren,IT,Senior Analyst,3,2021-01-26
+EMP0040,Tatum Abara,Sales,Senior Manager,6,2021-01-01
+EMP0041,Shay Bauer,Sales,Analyst,2,2025-09-03
+EMP0042,Harper Osei,HR,Senior Manager,6,2019-08-31
+EMP0043,Casey Tanaka,Finance,Associate,1,2023-11-14
+EMP0044,Finley Rossi,Sales,Senior Analyst,3,2025-10-14
+EMP0045,Cameron Singh,Operations,Senior Analyst,3,2021-10-06
+EMP0046,Hayden Nguyen,Operations,Analyst,2,2023-06-22
+EMP0047,Devon Kim,IT,Associate,1,2022-06-12
+EMP0048,Kai Dubois,Operations,Associate,1,2021-06-12
+EMP0049,Jules Abara,HR,Manager,5,2023-10-23
+EMP0050,Wren Singh,Operations,Analyst,2,2023-10-10
+EMP0051,Ellis Ivanov,HR,Senior Analyst,3,2023-01-25
+EMP0052,Rowan Kim,HR,Analyst,2,2019-11-11
+EMP0053,Frankie Novak,HR,Lead,4,2023-07-16
+EMP0054,Devon Andersen,HR,Senior Manager,6,2023-08-10
+EMP0055,Quinn Bauer,HR,Senior Analyst,3,2025-04-21
+EMP0056,Shay Abara,IT,Senior Analyst,3,2025-05-23
+EMP0057,Sage Lindgren,Operations,Lead,4,2025-11-20
+EMP0058,Noor Lindgren,Operations,Analyst,2,2020-02-29
+EMP0059,Alexis Fischer,Finance,Senior Analyst,3,2026-05-13
+EMP0060,Devon Okafor,IT,Manager,5,2025-04-04
+EMP0061,Harper Costa,Sales,Lead,4,2021-09-06
+EMP0062,Alexis Kim,IT,Senior Manager,6,2026-05-21
+EMP0063,Avery Kowalski,Finance,Analyst,2,2025-06-21
+EMP0064,Jules Singh,IT,Associate,1,2024-03-01
+EMP0065,Jules Garcia,Finance,Analyst,2,2026-05-03
+EMP0066,Avery Muller,HR,Manager,5,2024-02-03
+EMP0067,Parker Patel,Finance,Manager,5,2023-01-20
+EMP0068,Casey Nguyen,Sales,Senior Analyst,3,2023-12-12
+EMP0069,Cameron Kowalski,HR,Analyst,2,2024-07-29
+EMP0070,Jules Okafor,Operations,Lead,4,2021-11-27
+EMP0071,Kai Costa,HR,Analyst,2,2021-07-02
+EMP0072,Shay Tanaka,Operations,Manager,5,2026-04-11
+EMP0073,Gray Kim,Sales,Senior Analyst,3,2024-06-17
+EMP0074,Reese Nguyen,Operations,Senior Analyst,3,2025-04-15
+EMP0075,Reese Chen,IT,Senior Analyst,3,2020-10-28
+EMP0076,Gray Andersen,Finance,Analyst,2,2023-10-02
+EMP0077,Jules Dubois,Finance,Associate,1,2025-01-05
+EMP0078,Jordan Ivanov,Finance,Senior Analyst,3,2021-08-12
+EMP0079,Morgan Silva,Finance,Associate,1,2020-03-16
+EMP0080,Shay Ivanov,IT,Director,7,2019-12-24
